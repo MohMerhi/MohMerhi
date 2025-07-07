@@ -8,7 +8,7 @@ I've graduated from the lebanese university in 2024. Web Development is what I c
 
 * 🌍  I'm based in Lebanon
 * ✉️  You can contact me at [mohammadmerhi.00@gmail.com](mailto:mohammadmerhi.00@gmail.com)
-* 🧠  I'm learning new frameworks in web development
+* 🧠  I'm learning Laravel
 
 ### Skills
 
